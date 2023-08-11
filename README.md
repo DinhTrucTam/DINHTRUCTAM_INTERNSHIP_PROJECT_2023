@@ -6,4 +6,11 @@ First of all, I want to send a huge appreciation to Ohstem Education company for
 
 This is my internship project source code. The project is about creating a Graphical User Interface using Python to control and process some AI models on the mecanum car.
 
-First of all, 
+Follow these steps to run the project:
+
+## Installation
+1. Download and install Python.
+2. Download the following packages:
+   ```bash
+   pip install adafruit-io
+   ```
