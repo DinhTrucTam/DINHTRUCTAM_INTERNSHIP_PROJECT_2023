@@ -14,3 +14,27 @@ Follow these steps to run the project:
    ```bash
    pip install adafruit-io
    ```
+   ```bash
+   pip install tk
+   ```
+   ```bash
+   pip install customtkinter
+   ```
+   ```bash
+   pip install Pillow
+   ```
+   ```bash
+   pip install tensorflow
+   ```
+   ```bash
+   pip install keras
+   ```
+   ```bash
+   pip install numpy
+   ```
+   ```bash
+   pip install opencv-python
+   ```
+3. Download the .zip file "Project_Mecanum.zip" and extract it. Open the folder in your Python IDE.
+4. Find the .txt file "link to the main code.txt". Open the link in the file and download the .json file.
+5. Open the browser and paste this link: (https://app.ohstem.vn/)
